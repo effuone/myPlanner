@@ -1,0 +1,13 @@
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.exe
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.deps.json
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.runtimeconfig.json
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.runtimeconfig.dev.json
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.dll
+C:\Users\777\source\repos\myPlanner\myPlanner\bin\Debug\netcoreapp3.1\myPlanner.pdb
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.csprojAssemblyReference.cache
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.AssemblyInfo.cs
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.dll
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.pdb
+C:\Users\777\source\repos\myPlanner\myPlanner\obj\Debug\netcoreapp3.1\myPlanner.genruntimeconfig.cache
